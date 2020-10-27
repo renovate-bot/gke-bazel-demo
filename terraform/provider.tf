@@ -20,7 +20,7 @@ provider "google" {
 }
 
 provider "google-beta" {
-  version = "2.12.0"
+  version = "2.20.3"
   project = var.project
 }
 
