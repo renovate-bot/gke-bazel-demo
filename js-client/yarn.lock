@@ -6485,6 +6485,11 @@ tslib@^1.7.1, tslib@^1.8.1, tslib@^1.9.0:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
 
+tslib@^2.0.0:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
+  integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
+
 tsutils@2.27.2:
   version "2.27.2"
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.27.2.tgz#60ba88a23d6f785ec4b89c6e8179cac9b431f1c7"
@@ -6988,7 +6993,9 @@ zip-stream@^2.0.1:
     compress-commons "^1.2.0"
     readable-stream "^2.0.0"
 
-zone.js@0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.10.1.tgz#c83f7011896172cb69cbb99d2eff2302f3b2ca1a"
-  integrity sha512-PNCeR7yTNse/C1sSv01OWTV6hEnlQP98w5OX7cmNM+7wLCISLukNIzfYoRjdsWTYE3t1PQkjtjGa/GYoeP8Caw==
+zone.js@0.11.3:
+  version "0.11.3"
+  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.11.3.tgz#255a6313174731cc014d63233ef04fd9858da375"
+  integrity sha512-Y4hTHoh4VcxU5BDGAqEoOnOiyT254w6CiHtpQxAJUSMZPyVgdbKf+5R7Mwz6xsPhMIeBXk5rTopRZDpjssTCUg==
+  dependencies:
+    tslib "^2.0.0"
