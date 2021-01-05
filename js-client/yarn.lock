@@ -318,10 +318,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ngrx/store@8.2.0":
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-8.2.0.tgz#8374fa803babdbf2a599240a8e546fa726d83edd"
-  integrity sha512-RTmg7WstMhxEIWxtcK1dC4i/3OQeS11ilosQjmZyiRcbRQzvBMZqQzNdpwb5yL6rEQ19Cka/QEWm2sd2USzHeA==
+"@ngrx/store@8.6.1":
+  version "8.6.1"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-8.6.1.tgz#ee4c7d3b8bcc59cf042ae76e6743130408e9b2d8"
+  integrity sha512-bV7X0hNywd6N5YroWdZffIEvLKdHZo/l4tCK9FC/o5OezVyPRKZ6QVHz8e2jnLvqj55XzOJNR/tsYh4iuVi2pg==
 
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
